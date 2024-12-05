@@ -35,4 +35,5 @@
 .vscode/
 
 # Test files
-test/
+teste/
+output/
